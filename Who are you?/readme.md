@@ -1,7 +1,7 @@
 # Who am I?
 ## Basic Information
-First Name: ==Shehu==
-Last Name: ==Muhammad== 
+First Name ==Shehu==
+Last Name ==Muhammad== 
 Age: 27
 Pronouns: He/Him
 ## Career Goal
