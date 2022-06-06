@@ -50,7 +50,7 @@ X-->T
 - eating snacks
 ## Favorite Foods
 1. Tacos :yum:
-2. Chicken (BBQ Grilled Baked) :yum:
+2. Chicken (BBQ/Grilled/Baked) :yum:
 3. Spaghetti
 4. Pasta
 5. Pizza :yum:
