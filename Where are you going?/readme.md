@@ -27,4 +27,7 @@ A Typical Day
 |10:35 pm        |Read a book                    |
 |11:00 pm        |Fall asleep                    |
 
-
+Inspirtaional Quotes- by Nike
+- "You can feel sore tomorrow or you can feel sorry tomorrow. You choose."
+- "Willpower knows no obstacles. Find your greatness."
+- Start unknown. Finish unforgettable."
