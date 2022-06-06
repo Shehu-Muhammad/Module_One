@@ -13,4 +13,4 @@ Inspirational Quotes - by Nike
 
 - "The harder you push, the more you are pulled." (but it could be a joke if you [git](https://www.tutorialspoint.com/git/git_basic_concepts.htm) it? :joy:)
 - "If it doesn't challenge you, it doesn't change you."
-- "It's not where you place, it's how hard you worked to get there." (could of added another git joke here 🤫)
+- "It's not where you place, it's how hard you worked to get there." (could have added another git joke here 🤫)
