@@ -20,7 +20,7 @@ C-->E(Bootstrap)
 C-->F(Sass)
 C-->G(Flex Box)
 H[Backend]-->I[Languages]
-I-->(JavaScript)-->N(Node.js)
+I-->J(JavaScript)-->N(Node.js)
 I-->K(PHP)
 I-->L(Ruby on Rails)
 I-->M(Python)-->O(Django)
