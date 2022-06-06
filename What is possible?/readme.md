@@ -3,7 +3,14 @@ What is possible?
 Anything is possible. 
 If you can think it, you can create it...99% of the time.
 
-Include an image of a brain
+Project Name: Color Game
+> Click [here](https://shehu-muhammad.github.io/Color_Game/) for some controlled fun
 
-1% of the time you may not be able to create something due to running out 
-of time. 
+Project Name: Patatap Clone or Circles for short
+> Click [here](https://shehu-muhammad.github.io/Patatap_Clone-App/) for some controlled fun
+
+Inspirational Quotes - by Nike
+
+- "The harder you push, the more you are pulled." (but it could be a joke if you [git](https://www.tutorialspoint.com/git/git_basic_concepts.htm) it? :joy:)
+- "If it doesn't challenge you, it doesn't change you."
+- "It's not where you place, it's how hard you worked to get there." (could of added another git joke here 🤫)
