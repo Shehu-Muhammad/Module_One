@@ -69,4 +69,9 @@ X-->T
 :joy: :joy: :joy: :smile: :smile: :smile: :relieved: :relieved: :relieved:
 
 
+Directory Paths
+* Current Directory Path: /Users/student/Module1Project/"Who are you?"
+* Next Directory Path: /Users/student/Module1Project/backup
+* Previous Directory Path: /Users/student/Module1Project/"Where are you 
+going?"
 

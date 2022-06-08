@@ -17,3 +17,11 @@ Examples:
  - 3, 4, 5
  - 5, 12, 13
  - 8, 15, 17
+
+Directory Paths          
+* Current Directory Path: /Users/student/Module1Project/"What is
+something you know?"
+* Next Directory Path: /Users/student/Module1Project/"Where are you 
+going?"
+* Previous Directory Path: /Users/student/Module1Project/"What is 
+possible?"
