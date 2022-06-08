@@ -20,3 +20,9 @@ Below are some pictures I found on google in my free TIME. :joy:
 ![A person standing on a clock = being on time](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiTaIvTX7R1Rgb9FIeoyT5QDa9QAj-ANe3_w&usqp=CAU)
 
 ![Time with wings = time flying](https://media.istockphoto.com/vectors/basic-rgb-vector-id1215126643?k=20&m=1215126643&s=612x612&w=0&h=gdbQI_wWQuL-6np8x_ar61Vdth9pcrPS3q8bKt4iUcw=)
+
+Directory Paths          
+* Current Directory Path: /Users/student/Module1Project/"What is
+important to you?"
+* Next Directory Path: /Users/student/Module1Project/"What is possible?"
+* Previous Directory Path: /Users/student/Module1Project

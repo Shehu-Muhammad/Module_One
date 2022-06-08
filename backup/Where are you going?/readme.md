@@ -31,3 +31,10 @@ Inspirtaional Quotes- by Nike
 - "You can feel sore tomorrow or you can feel sorry tomorrow. You choose."
 - "Willpower knows no obstacles. Find your greatness."
 - Start unknown. Finish unforgettable."
+
+Directory Paths          
+* Current Directory Path: /Users/student/Module1Project/"Where are you 
+going?"
+* Next Directory Path: /Users/student/Module1Project/"Who are you?"
+* Previous Directory Path: /Users/student/Module1Project/"What is 
+something you know?"
